@@ -1,0 +1,8 @@
+trl 
+accelerate 
+git+https://github.com/huggingface/peft.git
+datasets 
+bitsandbytes 
+einops
+langchain
+streamlit
